@@ -1,6 +1,6 @@
 token= NTEwMTk0OTQwMzgzMzMwMzE1.Dsix1w.3m3mmVNSbvlAibUhrrQMwxMBiJ8
 owner= 478954803657965569
-prefix= Di
-game= Type Dihelp
+prefix= D
+game= Type Dhelp
 stayinchannel=true 
 songinstatus=false 
