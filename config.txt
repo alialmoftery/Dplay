@@ -1,5 +1,5 @@
 token= NTEwMTk0OTQwMzgzMzMwMzE1.Dsix1w.3m3mmVNSbvlAibUhrrQMwxMBiJ8
-owner= 478954803657965569
+owner= 514114378384015372
 prefix= D
 game= Type Dhelp
 stayinchannel=true 
